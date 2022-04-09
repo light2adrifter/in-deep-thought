@@ -24,7 +24,9 @@
 
   ## Description
 
+![Demo in Insomnia](./demo.png)
   The api for a social network, using standard CRUD.
+  Video of it in action shown here: https://drive.google.com/file/d/1zDEs5DwDqLwKS_wcU9VAhknichMNj1hw/view!
   
   ## Installation
   npm install
